@@ -12,3 +12,9 @@ img {
 .header-box {
   margin: 20px;
 }
+
+.intro {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: small;
+}
